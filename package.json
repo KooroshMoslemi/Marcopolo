@@ -32,7 +32,7 @@
         "framework7-vue": "^4.5.0",
         "ion-rangeslider": "^2.3.0",
         "laravel-vue-pagination": "^2.3.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "nouislider": "^14.0.2",
         "qs": "^6.8.0",
         "sweetalert2": "^8.16.3",
