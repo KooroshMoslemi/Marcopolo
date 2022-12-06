@@ -34,7 +34,7 @@
         "laravel-vue-pagination": "^2.3.0",
         "moment": "^2.24.0",
         "nouislider": "^14.0.2",
-        "qs": "^6.8.0",
+        "qs": "^6.8.3",
         "sweetalert2": "^8.16.3",
         "tinymce": "^5.0.15",
         "vform": "^1.0.1",
